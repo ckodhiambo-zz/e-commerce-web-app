@@ -1,0 +1,7 @@
+.revenue-visibility-icon {
+    cursor: pointer; /* Change the cursor to a pointer when hovering over the icon */
+}
+
+.revenue-amount.text-muted {
+    visibility: hidden; /* Hide the revenue amount when the "text-muted" class is applied */
+}
